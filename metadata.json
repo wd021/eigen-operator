@@ -2,6 +2,6 @@
   "name": "wd021 nodes",
   "website": "https://www.minipods.app",
   "description": "the greatest node known",
-  "logo": "https://www.example.com/logo.png",
+  "logo": "https://minipods.app/_next/image?url=%2Flogo.png&w=384&q=75",
   "twitter": "https://twitter.com/minipods_app"
 }
